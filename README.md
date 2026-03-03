@@ -1,18 +1,17 @@
-<h1 align="center" style="font-size:60px;">
+<h1 align="center" style="font-size:64px;">
   Joacore 🚀
 </h1>
 
-<p align="center" style="font-size:16px; opacity:0.7;">
+<br><br><br>
+
+<p align="center" style="font-size:22px;">
   From intuition to structured systems.
 </p>
 
-<br><br>
-
-<p align="center">
-  Depth · Clarity · Momentum
-</p>
+<br><br><br><br><br>
 
 ---
 
 Joacore explores the space between intuition and structure.  
-Turning ideas into intentional systems.
+Building thoughtful machine learning systems  
+with clarity and intention.
