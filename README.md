@@ -1,34 +1,25 @@
-<h1 align="center">Joacore 🚀</h1>
+<h1 align="center">Joacore</h1>
 
 <p align="center">
-From intuition to structured systems.<br/>
-Depth · Clarity · Momentum
+From intuition to structured systems.
 </p>
 
 ---
 
-## 🌙 About
-
-Joacore explores the space  
-between intuition and structure.
-
+Joacore explores the space between intuition and structure.  
 Turning ideas into intentional systems.
 
 ---
 
-## 🧠 Focus
+**Focus**
 
-- Machine Learning
-- Thoughtful ML pipelines
-- Clean architecture
-- Experiments that become structure
+Machine Learning  
+Thoughtful pipelines  
+Clean architecture  
 
 ---
 
-## ✍️ Writing
-
-- https://joacore.com  
-- https://joacore.hashnode.dev  
+https://joacore.com
 
 ---
 
