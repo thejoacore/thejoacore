@@ -1,16 +1,16 @@
 <div align="center">
 
-<br><br><br><br><br><br><br><br>
+<div style="padding:120px 0;">
 
-<h1 style="font-size:72px; margin:0;">
+<h1 style="font-size:64px; margin:0;">
 Joacore 🚀
 </h1>
 
-<p style="font-size:20px; margin-top:20px;">
+<p style="margin-top:20px; font-size:16px;">
 From intuition to structured systems.
 </p>
 
-<br><br><br><br><br><br><br><br>
+</div>
 
 </div>
 
@@ -18,3 +18,4 @@ From intuition to structured systems.
 
 Joacore explores the space between intuition and structure.  
 Building thoughtful machine learning systems with clarity and intention.
+
